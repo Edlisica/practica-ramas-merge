@@ -1,4 +1,6 @@
-Practica de Git con Ramas## Heading![Octocat](https://logodix.com/logo/551804.jpg)
+# Practica de Git con Ramas
+
+![Octocat](https://logodix.com/logo/551804.jpg)
 
  1. Git **add** 
  2. Git **commit**
@@ -8,6 +10,7 @@ Practica de Git con Ramas## Heading![Octocat](https://logodix.com/logo/551804.jp
 
 > No me quiero ir por las ramas
 > Ed
+
 | Git Fetch | Git pull |
 |--|--|
 | No trae los archivos | Trae los archivos |
